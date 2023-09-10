@@ -1,7 +1,5 @@
 package shapes;
 
-public class Shape {
-	
-	//test
+public abstract class Shape {
 
 }
