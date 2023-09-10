@@ -1,5 +1,5 @@
 package shapes;
 
-public class Cone {
+public class Cone extends Shape {
 
 }
